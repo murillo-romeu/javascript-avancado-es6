@@ -18,3 +18,4 @@ console.log(sub(3, 2));
 var quadrado = a => a * a;
 
 console.log(quadrado(5));
+
